@@ -1,2 +1,19 @@
-Encrypt with pak Rahmat's Public Key:
-os201 C 1252507175 gha Cicak bin Kadal
+-----BEGIN PGP MESSAGE-----
+Version: BCPG v1.58
+
+hQIMA4BxSVkIulX+AQ/+Jbl+96gbNMv2SoVptJ8aLPxx/jlaq3o/mYatQmB5Xrq8
+ifjzr15uKCH74Eht5s32slH5VQKsKiNB2EKE9oz2jhY2jy8BQtBkuExJKXgqrtXI
+N8kpbISecDSp9o2PRRKqbxsOl6j5tFFkDX+gh9Rm6+DK4fWPVmBMUaPmscdc7faa
+S7FA0pqlFGs8qUhAfvzWkIduIwaFurLFan0QXB+xmIBYl4ICrgfmhrNMxY1bHi7D
+ezebDf4w+cuNW4pJyUDnzemq4uMRLmwMQBPliAokLshSCBj6DRTbYNOdIxM4SHqx
+0Rm/2xQqq4Lh60ocg5M4TNKqQExkVZDRwITdGoHGtpkLE7TN8RrAJr6IJqODgD5z
+ZQtkd9b82HpwnldgMrPyG8rLC7VCAV7sDbcgSn2tJJQbJWEqJzgnXF0Ihc4kU2a7
++hSzsvQkKex7YqAKacoklNKrXi/Von8dLNAKhHJiJ8aw4FSyEMMonvVRNlL8Ko6p
+xqgP+kHZ50PVEaDFJv4r7fZR9ThTNkvdBKVhlbGNvO5wr2l8EErGAk+Wq6qR01da
++IJeh4iF1bvIwugMwUlcyg5bj4NSpogFkVtRnRdshDx5LoneTZNjj+2VVPkLMYTZ
+rYh2CoKlWivz6ZI1VZPoBXYGVYKl6sj2OOOYh6nQrqvWJ3R6btRptKap/LfpYkvS
+gQEyzogq0TCzbrovPq/hb00QOSDjfDV/fO9nJ1wveCMJuAE1N/iYuyRwnIX22elM
+Y4qgZ9EQ0RULgBvgo7jTaJiMYte0Wp4sygDfHAiFLKJsVINREtDp3Lb5x3me6uhE
+Jw7BQexZ8R8IRbCeEdQHUcVtLK7r2jwgIjlyE8wO/t7G7w\u003d\u003d
+\u003dFqg9
+-----END PGP MESSAGE-----
