@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: /
+---
+
 ## Welcome to my GitHub Page
 
 Hi, my name is Salman Ahmad Nurhoiriza, student at Universitas Indonesia, majoring in Computer Science.
